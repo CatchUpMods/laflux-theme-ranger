@@ -4,7 +4,7 @@ Laflux is a Hybrid Platform built with Laravel 5.3.Ranger is a theme for Laflux.
 
 ## Getting Started
 
-Ranger theme is a very beautiful, stunning and light weight.
+Ranger theme is a very beautiful, stunning and light weight.You can checkout the demo from [Here](http://themes.laflux.com/ranger/)
 
 ### Prerequisites
 
