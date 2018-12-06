@@ -1,5 +1,5 @@
 <?php
-namespace ExtensionsValley\Ranger\Events;
+namespace ExtensionsValley\RangerTheme\Events;
 
 
 \Event::listen('website.template.positions', function ($collection) {

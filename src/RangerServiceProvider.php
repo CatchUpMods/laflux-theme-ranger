@@ -1,6 +1,6 @@
 <?php
 
-namespace ExtensionsValley\Ranger;
+namespace ExtensionsValley\RangerTheme;
 
 use Illuminate\Support\ServiceProvider;
 
